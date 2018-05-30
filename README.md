@@ -12,7 +12,7 @@ SWBATS:
 
 
 
-**Lesson 1 (part1)** is written to last for 40 - 45 minutes.
+**Lesson 1 (part1)** 40 - 45 minutes.
 
 ##  Learning Objectives
 
