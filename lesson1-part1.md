@@ -4,11 +4,6 @@ This lesson provides an introduction to the data science process and challenges 
 
  
 
-##  Learning Objectives
-
-* Introduction to Data Science Process 
-* Data Science Roles
-
 
 
 ## The Data Science Process (20-25 min, explanations = 15 min, exercise = 5-10 min)
