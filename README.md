@@ -37,7 +37,7 @@ Each coding exercise should be explained in about 10 minutes and another 20 minu
 
 Further Readings: 
 
-* [The Data Science Process: What a data scientist actually does day-to-day] (https://medium.springboard.com/the-data-science-process-the-complete-laymans-guide-to-what-a-data-scientist-actually-does-ca3e166b7c67)
+* [The Data Science Process: What a data scientist actually does day-to-day](https://medium.springboard.com/the-data-science-process-the-complete-laymans-guide-to-what-a-data-scientist-actually-does-ca3e166b7c67)
 
 * [4 Types of Data Science jobs](https://blog.udacity.com/2018/01/4-types-data-science-jobs.html)
 * [Python vs. R vs. Matlab @ResearchGate](https://www.researchgate.net/profile/Ceyhun_Ozgur/publication/301970357_Matlab_vs_Python_vs_R/links/572d054a08aeb1c73d11b6fe/Matlab-vs-Python-vs-R) 
