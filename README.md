@@ -2,7 +2,7 @@
 
 Day 1 of the skills course in Data Science provides a quick introduction to data science domain and different analytics roles that students may start thinking about for career development. This lesson provides an introduction to Python as a language of choice and compares it with other maintstream platforms used for data analysis. For the pracrical part, the lesson introducdes some basic data types and operators in Python and methods to manipulate them. The lesson also provides an introduction to data I/O along with student centred simple coding exercises in Python. 
 
-SWBATS: 
+## SWBATS: 
 
 * Descrice the data science process with a clear understanding of stages involved. 
 * Understand different roles within data analytics domain with required skillset
@@ -14,7 +14,7 @@ SWBATS:
 
 **Lesson 1 (part1)** 40 - 45 minutes.
 
-##  Learning Objectives
+#  Learning Objectives
 
 * The "Data Science Process" 
 * Different Roles in the data analytics domain
@@ -23,11 +23,11 @@ SWBATS:
 This part provides a quick introduction to data science domain, data science process and comparison of different industrial roles within the domain of data analytics. There are a couple of short exercises aimed at developing critical thinking around these topics. Students should be advised to think blue skies with these exercises. This should allow them to relate future topics to practical use in a better way. 
 
 
-**Lesson 1 (part 2)** would last for around 2 hours. 
+**Lesson 1 (part 2)** 2 hours. 
 
-## Learning Objectives
+# Learning Objectives
 
-* Introduction to Data Science Tools and Technologies
+* Data Science Tools and Technologies
 * Python Programming Language and rationale for adoption
 * Basic data types (Strings, Numbers and Boolean) with coding exercises
 * Python variable declaration, assignment and re-assignment with coding exercises
