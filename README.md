@@ -43,4 +43,4 @@ Further Readings:
 * [Python vs. R vs. Matlab @ResearchGate](https://www.researchgate.net/profile/Ceyhun_Ozgur/publication/301970357_Matlab_vs_Python_vs_R/links/572d054a08aeb1c73d11b6fe/Matlab-vs-Python-vs-R) 
 
 * [A Simpler version of Data Science Process](https://cdn.slidemodel.com/wp-content/uploads/7309-01-data-science-powerpointp-template-16x9-04-870x489.jpg) or 
-* Another simpler version of Data Science Process](http://54.159.122.118/wp-content/uploads/2016/06/1_Activities_D.png). 
+* [Another simpler version of Data Science Process](http://54.159.122.118/wp-content/uploads/2016/06/1_Activities_D.png). 
