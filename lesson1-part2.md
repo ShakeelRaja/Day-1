@@ -4,13 +4,6 @@ Following this introduction, part 2 of the lesson starts by providing a quick ov
 
 The second half of taught component will introduce students to key data types generally used for collection and processing data within python, followed by coding exercises to pratice these datatypes for simple examples.
 
-## Objectives
-
-* Introduction to Data Science Tools and Technologies
-* Introduction to Python Programming Language and rationale for adoption
-* Python basic data types (Strings, Numbers and Boolean) with coding exercises
-* Python variable declaration, assignment and re-assignment
-
 ## Data Science Programming Environments
 
 **Provide a comparison of major programming environments**, consult [Quora](https://www.quora.com/Between-R-MATLAB-and-Python-which-one-is-better-for-artificial-intelligence-data-science-and-research) and This excellent review [paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwior87c-p3bAhUHIsAKHcUiAIwQFggzMAE&url=http%3A%2F%2Fwww.jds-online.com%2Ffile_download%2F612%2F150%25E5%25AE%258C%25E6%2588%2590V.pdf&usg=AOvVaw3Kzd_dYVl66naduCjZr0HR) )
@@ -75,7 +68,7 @@ Following section requires you to go through a number of practical exercises whi
  
  ## Conclusion and Summary
  
-In today's class, we looked at the data science lifecycle and different activities that data scientists engage themselves into while doing data analysis. We also looked at different roles within the data science domain and how these compare and contrast  with each other. This would have given you a basic ideas around the data science domain and now you can start thinking and planning around achieving these skills. 
+In today's class, we looked at the data science lifecycle and different activities that data scientists engage themselves into while doing data analysis. We also looked at different roles within the data science domain and how these compare and contrast  with each other. This would have given you a basic ideas around the data science domain and now you can start thinking and planning around achieving these skills. We also tried a number of coding exercises to understand Python basic data type with  variable declaration/assignment with operations suitable for specific data types. The lesson concluded with basic user I/O operations. 
 
 
 
