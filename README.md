@@ -12,9 +12,9 @@ Day 1 of the skills course in Data Science provides a quick introduction to data
 
 
 
-**Lesson 1 (part1)** 40 - 45 minutes.
+## Lesson 1 (part1)** 40 - 45 minutes.
 
-#  Learning Objectives
+###  Learning Objectives
 
 * The "Data Science Process" 
 * Different Roles in the data analytics domain
@@ -23,9 +23,9 @@ Day 1 of the skills course in Data Science provides a quick introduction to data
 This part provides a quick introduction to data science domain, data science process and comparison of different industrial roles within the domain of data analytics. There are a couple of short exercises aimed at developing critical thinking around these topics. Students should be advised to think blue skies with these exercises. This should allow them to relate future topics to practical use in a better way. 
 
 
-**Lesson 1 (part 2)** 2 hours. 
+## Lesson 1 (part 2)** 2 hours. 
 
-# Learning Objectives
+### Learning Objectives
 
 * Data Science Tools and Technologies
 * Python Programming Language and rationale for adoption
