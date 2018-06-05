@@ -68,7 +68,9 @@ Following section requires you to go through a number of practical exercises whi
  
  ## Conclusion and Summary
  
-In today's class, we looked at the data science lifecycle and different activities that data scientists engage themselves into while doing data analysis. We also looked at different roles within the data science domain and how these compare and contrast  with each other. This would have given you a basic ideas around the data science domain and now you can start thinking and planning around achieving these skills. We also tried a number of coding exercises to understand Python basic data type with  variable declaration/assignment with operations suitable for specific data types. The lesson concluded with basic user I/O operations. 
+In today's class, we looked at the data science lifecycle and different activities that data scientists engage themselves into while doing data analysis. We also looked at different roles within the data science domain and how these compare and contrast  with each other. This would have given you a basic ideas around the data science domain and now you can start thinking and planning around achieving these skills. 
+
+We also tried a number of coding exercises to understand Python basic data types including numbers, strings and boolean with operations suitable for specific data types. We also looked at variable declaration/assignment in Python. Handling user I/O to get and print data for users 
 
 
 
