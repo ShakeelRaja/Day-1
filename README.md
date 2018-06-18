@@ -1,14 +1,15 @@
-# Day 1 : Introduction to Data Science  (Beta)
+# Day 1 : Introduction to Data Science and Python
 
 Day 1 of the skills course in Data Science provides a quick introduction to data science domain and different analytics roles that students may start thinking about for career development. This lesson provides an introduction to Python as a language of choice and compares it with other maintstream platforms used for data analysis. For the pracrical part, the lesson introducdes some basic data types and operators in Python and methods to manipulate them. The lesson also provides an introduction to data I/O along with student centred simple coding exercises in Python. 
 
 ## SWBATS: 
 
-* Descrice the data science process with a clear understanding of stages involved. 
-* Understand different roles within data analytics domain with required skillset
-* Compare different programming paradigms for data science and provide a rational for using Python. 
+* Describe the data science process with a clear understanding of stages involved 
+* Understand different roles within data analytics domain with required skillsets
+* Compare different programming paradigms for data science and provide a rational for using Python
 * Define basic data types in Python and perform operations on these data types
-* Running a simple program with user prompted data input and output.
+* Declare and assign values to variables
+* Running a simple program with user prompted data input and output
 
 
 
