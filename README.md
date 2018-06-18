@@ -12,7 +12,7 @@ Day 1 of the skills course in Data Science provides a quick introduction to data
 
 
 
-## [Lesson 1 (part1)](lesson1-part1.md) 40 - 45 minutes.
+## Lesson 1 (part1)  -   40 - 45 minutes.
 
 ###  Learning Objectives
 
@@ -155,7 +155,7 @@ A business analyst is not required to have in-depth knowledge of analytics relat
 
 > Exercise: Take 5 minutes to think about different data science roles shown above. In your opinion, which of these roles suits your aspirations and skills. Also think about the skills required by your dream role that you may not currently have. Discuss in pairs. Share your ideas with the instructor. 
 
-## [Lesson 1 (part 2)](lesson1-part2.md) 2 hours. 
+## Lesson 1 (part 2) 2 hours. 
 
 ### Topics
 
@@ -215,13 +215,15 @@ You dont have to learn every functional offering by Python for data analysis. A 
 
 Following section requires you to go through a number of practical exercises which would help you understand basic progaramming concepts in Python. 
 
+* [Demo: Instant Data Science](https://github.com/learn-co-curriculum/python-intro-to-strings)
+
 * [Lesson: Handling Text with "String" datatype](https://github.com/learn-co-curriculum/python-intro-to-strings)
 
 * [Lesson: Dealing with numbers in Python](https://github.com/learn-co-curriculum/python-numbers-and-booleans)
 
 * [Lab: Handling datatypes](https://github.com/learn-co-curriculum/python-practice-with-datatypes)
 
-* [Declaring and Assigning Variables](https://github.com/learn-co-curriculum/python-variables-readme)
+* [Lesson: Declaring and Assigning Variables](https://github.com/learn-co-curriculum/python-variables-readme)
 
 * [Lab: Dealing with variables in Python](https://github.com/learn-co-curriculum/python-variables-lab)
 
